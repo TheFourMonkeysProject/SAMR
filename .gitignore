@@ -1,0 +1,8 @@
+local_settings.py
+*.pyc
+*.swp
+*~
+.idea/
+
+RemoteSystemsTempFiles/
+Servers/
